@@ -1,22 +1,22 @@
 ---
 - mystudents:
   - name: anil
-    phone: 7330825763
-    adress:
-      doorno: 123
-      streetno: 2
-      pin: 52422
+    phno: 78798788
+    address:
+      doorno: 534
+      streetNo: 2
+      pin: 500072
 
-  - name: anwar
-    phone: 7330825763
-    adress:
-      doorno: 123
-      streetno: 3
-      pin: 524222
+  - name: balu
+    phno: 676767676
+    address: 
+       doorno: 534
+       streetNo: 2
+       pin: 500072
 
-  - name: pradeep
-    phone: 7330825763
-    adress:
-      doorno: 123
-      streetno: 4
-      pin: 524222       
+  - name: chandu
+    phno: 78787877878
+    address: 
+         doorno: 534
+         streetNo: 2
+         pin: 500072
