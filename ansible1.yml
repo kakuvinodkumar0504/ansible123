@@ -1,22 +1,22 @@
 ---
 - mystudents:
-  - name: anil
-    phno: 78798788
-    address:
-      doorno: 534
-      streetNo: 2
-      pin: 500072
+  - name: vinod
+    phno: 123456
+    adress: 
+      doorno: 123
+      street no: 1
+      pin: 123456
 
-  - name: balu
-    phno: 676767676
-    address: 
-       doorno: 534
-       streetNo: 2
-       pin: 500072
+  - name: anwar
+    phno: 12345
+    adress: 
+      doorno: 12
+      street no: 4
+      pin: 12345
 
-  - name: chandu
-    phno: 78787877878
-    address: 
-         doorno: 534
-         streetNo: 2
-         pin: 500072
+  - name: pradeep 
+    phno: 1234567
+    adress: 
+      doorno: 1234
+      street no: 12
+      pin: 1234567  
