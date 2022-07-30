@@ -13,6 +13,6 @@
       state: present 
 
   - name: copy dynamic files
-    templates:
+    template:
         src: myindex.j2
         dest: /var/www/html/index.html
