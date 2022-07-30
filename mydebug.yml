@@ -20,5 +20,5 @@
     apt:  
       name: tree
       state: present
-    when: myfirstvaribleresult."stderr =!""  
+    when: myfirstvaribleresult."stderr !=""  
     
