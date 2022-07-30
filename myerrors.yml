@@ -17,6 +17,6 @@
   
   - name: install wget
     apt:
-      name: wget
+      name: wgettt
       state: present
-    tags: mywgetttt
+    tags: mywget
