@@ -1,0 +1,12 @@
+---
+- hosts: 172.31.88.189
+  become: yes
+  vars:
+    myvar1: apt
+    myvar2: tree
+    myvar3: wget
+
+  tasks:
+  - name:
+    debug:
+      msg: "{{myvar1}}"
