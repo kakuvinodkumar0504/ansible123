@@ -13,11 +13,12 @@
     apt:
       name: tree
       state: present
-    ignore_errors: yes
+    
     
 
   - name: install wget
     apt:
       name: wgettt
       state: present
+    ignore_errors: yes
     
