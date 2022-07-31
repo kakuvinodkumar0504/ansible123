@@ -1,2 +1,5 @@
 --- 
-- include_tasks: adduser.yml
+- include_tasks: adduser.yml 
+- include_tasks: javainstall.yml
+- include_tasks: tomcatdownload.yml
+- include_tasks: permission.yml
